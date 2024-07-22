@@ -88,8 +88,10 @@ class App(tk.Tk):
             while self.code[self.index] == " ":
                 self.text.insert(tk.END, self.code[self.index])
                 self.index += 1
+                self.text.see(tk.END)
             self.text.insert(tk.END, self.code[self.index])
             self.index += 1
+            self.text.see(tk.END)
         self.text.update_idletasks()
         self.text.config(state="disabled")
 

@@ -1,0 +1,13 @@
+{
+    "name": "Mandelbrot",
+    "description": "A troll code editor",
+    "version": "1.0",
+    "author": "Pigari Studio",
+    "license": "PigarOS Originals License",
+    "repository": "https://github.com/PigariStudio/Mandelbrot/",
+    "main_file": "app/mandelbrot.py",
+    "files": [],
+    "language": "python",
+    "other_actions": [],
+    "others": {}
+}

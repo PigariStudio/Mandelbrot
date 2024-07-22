@@ -5,7 +5,7 @@
     "author": "Pigari Studio",
     "license": "PigarOS Originals License",
     "repository": "https://github.com/PigariStudio/Mandelbrot/",
-    "main_file": "app/mandelbrot.py",
+    "main_file": "app/main.py",
     "files": [],
     "language": "python",
     "other_actions": [],
